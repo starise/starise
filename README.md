@@ -1,4 +1,4 @@
-![Andrea Brandi](andrea-brandi.svg)
+[![Andrea Brandi](andrea-brandi.svg)](#)
 
 ```
 🧠 My brain: I like to keep it next to where my heart used to be.
@@ -11,7 +11,7 @@ Writer, videomaker, developer. Human being, world citizen, living in Italy.
 - 🎮 My games on [Steam](https://steamcommunity.com/id/starise)
 - 🌐 More on my [website](https://andreabrandi.com)
 
-![](mountains.svg)
+[![](mountains.svg)](#)
 
 <!--
 **starise/starise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
