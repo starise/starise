@@ -1,4 +1,4 @@
-[![Andrea Brandi](andrea-brandi.svg)](#)
+[![Andrea Brandi](andrea-brandi.svg)](https://andreabrandi.com/)
 
 ```
 🧠 My brain: I like to keep it next to where my heart used to be.
