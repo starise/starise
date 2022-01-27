@@ -6,9 +6,6 @@
 
 Writer, videomaker, developer. Human being, world citizen, living in Italy.
 
-- 📚 My books on [GoodReads](https://www.goodreads.com/user/show/68398003)
-- 🎵 My music on [Last.fm](https://www.last.fm/user/starise)
-- 🎮 My games on [Steam](https://steamcommunity.com/id/starise)
 - 🌐 More on my [website](https://andreabrandi.com)
 
 [![](mountains.svg)](#)
