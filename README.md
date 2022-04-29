@@ -4,6 +4,8 @@
 🧠 My brain: I like to keep it next to where my heart used to be.
 ```
 
+<p><a href="https://facebook.com/svityboy"><img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.instagram.com/svityboy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.twitter.com/svityboy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://livellosegreto.it/@svityboy"><img src="https://img.shields.io/badge/mastodon-%232791da.svg?&style=for-the-badge&logo=mastodon&logoColor=white" height=25></a></p>
+
 [![](mountains.svg)](#)
 
 <!--
