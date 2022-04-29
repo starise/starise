@@ -4,10 +4,6 @@
 🧠 My brain: I like to keep it next to where my heart used to be.
 ```
 
-Writer, videomaker, developer. Human being, world citizen, living in Italy.
-
-- 🌐 More on my [website](https://andreabrandi.com)
-
 [![](mountains.svg)](#)
 
 <!--
