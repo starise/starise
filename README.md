@@ -1,24 +1,31 @@
 [![Andrea Brandi](andrea-brandi.svg)](https://andreabrandi.com/)
 
+**SOFTWARE · SYSTEMS · INTELLIGENCE**
+
+## 20+ years of engineering.
+
+20+ years in software & systems engineering across Windows and Linux.
+
+Now fully focused on AI-first development, agentic workflows and automation.
+
+My current stack is primarily TypeScript and Node.js, but my approach is increasingly language-agnostic — working across ecosystems, from Rust to C#.
+
+I care about architecture, simplicity, reliability and the quality of what gets shipped.
+
+### AI-first. Human-directed. Quality-driven.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/engineering-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/engineering-light.svg">
+  <img alt="Engineering focus: software, systems, AI engineering and automation. Workflow: intent, agents, tools, verified output, with human review and iteration." src="assets/engineering-light.svg" width="800">
+</picture>
+
+---
+
 ```
 🧠 My brain: I like to keep it next to where my heart used to be.
 ```
 
-<p><a href="https://facebook.com/andreabrandi.me"><img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.instagram.com/andreabrandi.me/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://andreabrandi.substack.com"><img src="https://img.shields.io/badge/substack-%23ff6b20.svg?&style=for-the-badge&logo=substack&logoColor=white" height=25></a></p>
+[Website](https://andreabrandi.com/) · [Substack](https://andreabrandi.substack.com) · [Instagram](https://www.instagram.com/andreabrandi.me/) · [Facebook](https://facebook.com/andreabrandi.me)
 
-[![](mountains.svg)](#)
-
-<!--
-**starise/starise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Mountain silhouette](mountains.svg)
